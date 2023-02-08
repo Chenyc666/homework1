@@ -1,1 +1,6 @@
 
+What is the difference between a merge and a rebase?
+
+
+
+What is a remote repository?
