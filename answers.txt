@@ -1,6 +1,7 @@
 
 What is the difference between a merge and a rebase?
 
-
+ rebase flattens the history, removing unwanted entries. 
+ Git merge, on the other hand, only changes the target branch and creates a commit, preserving the history of the source branch.
 
 What is a remote repository?
