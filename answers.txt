@@ -1,6 +1,15 @@
 
 What is the difference between a merge and a rebase?
 
+* merge executes only one new commit, rebase typically executes multiple (number of commits in current branch).merge produces a new generated commit (the so called merge-commit).
+
+* rebase only moves existing commits.rebase flattens the history, removing unwanted entries   
+
+
+
 
 
 What is a remote repository?
+
+* Remote repositories are versions of your project that are hosted on the Internet or network somewhere
+
